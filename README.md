@@ -1,9 +1,10 @@
+<!--
 ## hey there 👋
+
 - 🌱 i’m currently learning Krylov subspace recycling
 - 🔭 also working on protein design
 - ⚡ fun fact: i can do a pistol squat
 
-<!--
 **sarkarsrijon/sarkarsrijon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
